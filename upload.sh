@@ -1,0 +1,3 @@
+python setup.py sdist
+twine upload dist/* -u __token__ -p pypi-AgEIcHlwaS5vcmcCJGFjYWQ1NTkwLWI4MTYtNDBkNS1iZTMwLTc0YWUwNmY2M2Q2ZAACKlszLCI4MTJhNDRhNS04MjFiLTQzZDEtODhhNi0zM2RmMTk4NTIzNmEiXQAABiA8eU1Fn9mKpw9DH6UvwtfzFgM5jkUR7BUasZlGz_00Ig
+
